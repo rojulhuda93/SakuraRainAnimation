@@ -1,0 +1,26 @@
+{
+"name": "sakurarainanimation1",
+"version": "1.0.0",
+"description": "Welcome to the Sakura Rain Animation! This is a simple JavaScript code snippet that creates a mesmerizing animation of cherry blossom petals falling like rain.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/rojulhuda93/SakuraRainAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "rojulhuda93",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
